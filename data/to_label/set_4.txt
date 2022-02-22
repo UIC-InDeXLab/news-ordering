@@ -1,0 +1,1737 @@
+Suppose an average adult residing in the United States is viewing news headlines.
+If the subject views headline A then headline B, will headline A influence their opinion of headline B?
+Pick the option that you think is most likely (Y/N).
+There are a total of 247 questions.
+The task is estimated to take 1 hour to complete.
+
+--------------------
+
+#1
+(f3) Bongino: Behind the liberal 'blue stack'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#2
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+Y/N
+
+--------------------
+
+#3
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#4
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#5
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#6
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#7
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#8
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#9
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#10
+(f3) Bongino: Behind the liberal 'blue stack'
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#11
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#12
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#13
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#14
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
+#15
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#16
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#17
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#18
+(c5) This is the single most Republican-friendly state in the country
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#19
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#20
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#21
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#22
+(a9) Blockades on Canada-US border continue as protests swell
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#23
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#24
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#25
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#26
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#27
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#28
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#29
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#30
+(c7) Here's the terrible reality: Trump's election lie is on the march
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+Y/N
+
+--------------------
+
+#31
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#32
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#33
+(f10) Former White House intern opens autism museum in Michigan
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#34
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#35
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#36
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
+#37
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#38
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#39
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#40
+(a8) GOP pushes US schools to post all class materials online
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#41
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#42
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#43
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#44
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#45
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#46
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#47
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#48
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#49
+(c6) What created the new, more aggressive Putin
+(c5) This is the single most Republican-friendly state in the country
+Y/N
+
+--------------------
+
+#50
+(a9) Blockades on Canada-US border continue as protests swell
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#51
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#52
+(a8) GOP pushes US schools to post all class materials online
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#53
+(a8) GOP pushes US schools to post all class materials online
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#54
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#55
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#56
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#57
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#58
+(f3) Bongino: Behind the liberal 'blue stack'
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#59
+(f10) Former White House intern opens autism museum in Michigan
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#60
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#61
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#62
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#63
+(c6) What created the new, more aggressive Putin
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#64
+(f3) Bongino: Behind the liberal 'blue stack'
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#65
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+Y/N
+
+--------------------
+
+#66
+(c5) This is the single most Republican-friendly state in the country
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#67
+(a10) US aims to counter China by opening Solomon Islands embassy
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#68
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+Y/N
+
+--------------------
+
+#69
+(a9) Blockades on Canada-US border continue as protests swell
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#70
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#71
+(a9) Blockades on Canada-US border continue as protests swell
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#72
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#73
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#74
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#75
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#76
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#77
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#78
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#79
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#80
+(a9) Blockades on Canada-US border continue as protests swell
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#81
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#82
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
+#83
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#84
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#85
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#86
+(c7) Here's the terrible reality: Trump's election lie is on the march
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#87
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#88
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#89
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#90
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#91
+(f10) Former White House intern opens autism museum in Michigan
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#92
+(f3) Bongino: Behind the liberal 'blue stack'
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#93
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#94
+(a8) GOP pushes US schools to post all class materials online
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
+#95
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#96
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+Y/N
+
+--------------------
+
+#97
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#98
+(f3) Bongino: Behind the liberal 'blue stack'
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#99
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#100
+(f10) Former White House intern opens autism museum in Michigan
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#101
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#102
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#103
+(a9) Blockades on Canada-US border continue as protests swell
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#104
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#105
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#106
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#107
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#108
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#109
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#110
+(c7) Here's the terrible reality: Trump's election lie is on the march
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#111
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#112
+(a10) US aims to counter China by opening Solomon Islands embassy
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#113
+(f7) Little optimism from Biden's call with Putin
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#114
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+Y/N
+
+--------------------
+
+#115
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#116
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#117
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#118
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#119
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#120
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#121
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#122
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#123
+(c6) What created the new, more aggressive Putin
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#124
+(a8) GOP pushes US schools to post all class materials online
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#125
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#126
+(a10) US aims to counter China by opening Solomon Islands embassy
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#127
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#128
+(c5) This is the single most Republican-friendly state in the country
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#129
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+Y/N
+
+--------------------
+
+#130
+(f10) Former White House intern opens autism museum in Michigan
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#131
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#132
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c5) This is the single most Republican-friendly state in the country
+Y/N
+
+--------------------
+
+#133
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#134
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#135
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#136
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+(c5) This is the single most Republican-friendly state in the country
+Y/N
+
+--------------------
+
+#137
+(f3) Bongino: Behind the liberal 'blue stack'
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#138
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#139
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#140
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#141
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#142
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#143
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#144
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#145
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#146
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+Y/N
+
+--------------------
+
+#147
+(c6) What created the new, more aggressive Putin
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+Y/N
+
+--------------------
+
+#148
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#149
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#150
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#151
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#152
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+Y/N
+
+--------------------
+
+#153
+(f7) Little optimism from Biden's call with Putin
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+Y/N
+
+--------------------
+
+#154
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#155
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#156
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#157
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#158
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#159
+(f7) Little optimism from Biden's call with Putin
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#160
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#161
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#162
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+Y/N
+
+--------------------
+
+#163
+(c6) What created the new, more aggressive Putin
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#164
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#165
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#166
+(f3) Bongino: Behind the liberal 'blue stack'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#167
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+Y/N
+
+--------------------
+
+#168
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#169
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#170
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#171
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#172
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#173
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#174
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#175
+(f3) Bongino: Behind the liberal 'blue stack'
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#176
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#177
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#178
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#179
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
+#180
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#181
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#182
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#183
+(c5) This is the single most Republican-friendly state in the country
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#184
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#185
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#186
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#187
+(a9) Blockades on Canada-US border continue as protests swell
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#188
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#189
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#190
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#191
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#192
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#193
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#194
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#195
+(c7) Here's the terrible reality: Trump's election lie is on the march
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+Y/N
+
+--------------------
+
+#196
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#197
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#198
+(f10) Former White House intern opens autism museum in Michigan
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#199
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#200
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#201
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
+#202
+(f8) Masks have value, mandates not so much: Dr. Siegel
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#203
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#204
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f6) 'Ramcheros' share their predictions for Superbowl LVI
+Y/N
+
+--------------------
+
+#205
+(a8) GOP pushes US schools to post all class materials online
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#206
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#207
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#208
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#209
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#210
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#211
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#212
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#213
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#214
+(c6) What created the new, more aggressive Putin
+(c5) This is the single most Republican-friendly state in the country
+Y/N
+
+--------------------
+
+#215
+(a9) Blockades on Canada-US border continue as protests swell
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#216
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#217
+(a8) GOP pushes US schools to post all class materials online
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#218
+(a8) GOP pushes US schools to post all class materials online
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#219
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#220
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#221
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#222
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a3) Biden weighs appeal of 3 top candidates for high court
+Y/N
+
+--------------------
+
+#223
+(f3) Bongino: Behind the liberal 'blue stack'
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#224
+(f10) Former White House intern opens autism museum in Michigan
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+Y/N
+
+--------------------
+
+#225
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#226
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#227
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#228
+(c6) What created the new, more aggressive Putin
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#229
+(f3) Bongino: Behind the liberal 'blue stack'
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#230
+(c10) Here's the *real* problem with Joe Biden's approval rating
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+Y/N
+
+--------------------
+
+#231
+(c5) This is the single most Republican-friendly state in the country
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#232
+(a10) US aims to counter China by opening Solomon Islands embassy
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#233
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+Y/N
+
+--------------------
+
+#234
+(a9) Blockades on Canada-US border continue as protests swell
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#235
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#236
+(a9) Blockades on Canada-US border continue as protests swell
+(a1) On voting rights, Biden’s power to act on his own is limited
+Y/N
+
+--------------------
+
+#237
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+Y/N
+
+--------------------
+
+#238
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#239
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+Y/N
+
+--------------------
+
+#240
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#241
+(c8) Liz Cheney wants Republicans to remember what they keep trying to forget
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#242
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#243
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+Y/N
+
+--------------------
+
+#244
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#245
+(a9) Blockades on Canada-US border continue as protests swell
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#246
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+Y/N
+
+--------------------
+
+#247
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a10) US aims to counter China by opening Solomon Islands embassy
+Y/N
+
+--------------------
+
