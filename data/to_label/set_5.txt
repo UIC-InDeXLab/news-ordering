@@ -1,0 +1,701 @@
+Suppose an average adult residing in the United States is viewing news headlines.
+If the subject views headline A then headline B, will headline A influence their opinion of headline B?
+Pick the option that you think is most likely (Y/N).
+There are a total of 99 questions.
+The task is estimated to take 24 minutes to complete.
+
+--------------------
+
+#1
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#2
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#3
+(f7) Little optimism from Biden's call with Putin
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#4
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#5
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#6
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#7
+(c6) What created the new, more aggressive Putin
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#8
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#9
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#10
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#11
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#12
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#13
+(f3) Bongino: Behind the liberal 'blue stack'
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#14
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#15
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#16
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#17
+(f3) Bongino: Behind the liberal 'blue stack'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#18
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#19
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#20
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#21
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#22
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#23
+(f7) Little optimism from Biden's call with Putin
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#24
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#25
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#26
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#27
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#28
+(f3) Bongino: Behind the liberal 'blue stack'
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#29
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#30
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#31
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#32
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#33
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#34
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#35
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#36
+(f7) Little optimism from Biden's call with Putin
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#37
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#38
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#39
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#40
+(c6) What created the new, more aggressive Putin
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#41
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#42
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#43
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#44
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#45
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#46
+(f3) Bongino: Behind the liberal 'blue stack'
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#47
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#48
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#49
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#50
+(f3) Bongino: Behind the liberal 'blue stack'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#51
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#52
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#53
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#54
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#55
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#56
+(f7) Little optimism from Biden's call with Putin
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#57
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#58
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#59
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#60
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#61
+(f3) Bongino: Behind the liberal 'blue stack'
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#62
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#63
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#64
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#65
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#66
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#67
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#68
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#69
+(f7) Little optimism from Biden's call with Putin
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#70
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#71
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c6) What created the new, more aggressive Putin
+Y/N
+
+--------------------
+
+#72
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+Y/N
+
+--------------------
+
+#73
+(c6) What created the new, more aggressive Putin
+(c7) Here's the terrible reality: Trump's election lie is on the march
+Y/N
+
+--------------------
+
+#74
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#75
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#76
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+Y/N
+
+--------------------
+
+#77
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#78
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#79
+(f3) Bongino: Behind the liberal 'blue stack'
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#80
+(a5) US evacuating most Ukraine embassy staff over invasion fears
+(a9) Blockades on Canada-US border continue as protests swell
+Y/N
+
+--------------------
+
+#81
+(a0) Biden warns Putin of ‘severe costs’ of Ukraine invasion
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#82
+(a1) On voting rights, Biden’s power to act on his own is limited
+(a8) GOP pushes US schools to post all class materials online
+Y/N
+
+--------------------
+
+#83
+(f3) Bongino: Behind the liberal 'blue stack'
+(f10) Former White House intern opens autism museum in Michigan
+Y/N
+
+--------------------
+
+#84
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+(a7) Afghans protest US move to unfreeze $3.5B for 9/11 victims
+Y/N
+
+--------------------
+
+#85
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#86
+(a3) Biden weighs appeal of 3 top candidates for high court
+(a4) One eye on midterms, Dems ease up on approach to virus
+Y/N
+
+--------------------
+
+#87
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c1) Rand Paul said he hopes trucker protests 'clog up cities,' including during Super Bowl and in DC
+Y/N
+
+--------------------
+
+#88
+(a4) One eye on midterms, Dems ease up on approach to virus
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#89
+(f7) Little optimism from Biden's call with Putin
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
+#90
+(f4) Kilmeade: Is lifting restrictions about science or politics?
+(f7) Little optimism from Biden's call with Putin
+Y/N
+
+--------------------
+
+#91
+(c0) US security and intelligence agencies prep for potential Russian hacking threats
+(c3) Biden unfreezes Afghan funds for in-country relief and 9/11 legal fight
+Y/N
+
+--------------------
+
+#92
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f9) Austin police academy graduate has U-haul with all his belongings stolen on first night in town
+Y/N
+
+--------------------
+
+#93
+(a2) Democratic Senate debates merits of passion vs. pragmatism
+(a6) Youngkin apologizes after mixing up Black women lawmakers
+Y/N
+
+--------------------
+
+#94
+(f3) Bongino: Behind the liberal 'blue stack'
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#95
+(c4) Archives threatened to go to Congress and Justice Department to get Trump to turn over records
+(c9) One Republican's desperate attempt to get back in Trump's good graces
+Y/N
+
+--------------------
+
+#96
+(f1) NYC Mayor Adams targets 'drill rap' videos on social media, saying they promote gun violence
+(f5) Border is a 'self-inflicted' crisis: Former acting DHS secretary
+Y/N
+
+--------------------
+
+#97
+(c2) Federal judge blocks counties from charging Texas officials with crimes for encouraging mail-in voting
+(c10) Here's the *real* problem with Joe Biden's approval rating
+Y/N
+
+--------------------
+
+#98
+(f2) Should you be worrying about getting wiped out like the dinosaurs?
+(f3) Bongino: Behind the liberal 'blue stack'
+Y/N
+
+--------------------
+
+#99
+(f0) Russia-Ukraine: Biden and Putin talk for 1 hour, but 'no fundamental change'
+(f8) Masks have value, mandates not so much: Dr. Siegel
+Y/N
+
+--------------------
+
