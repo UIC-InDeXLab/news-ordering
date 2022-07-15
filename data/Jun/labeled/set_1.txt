@@ -1,0 +1,1164 @@
+Suppose an average adult residing in the United States is viewing news headlines.
+If the subject views headline A and headline B together, will their perception of either headline be different
+from what it would be if the subject viewed them separately?
+Pick the option that you think is most likely (Y/N).
+There are a total of 165 questions.
+The task is estimated to take 41 minutes to complete.
+
+--------------------
+
+#1
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+Y
+
+--------------------
+
+#2
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+Y
+
+--------------------
+
+#3
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+N
+
+--------------------
+
+#4
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+Y
+
+--------------------
+
+#5
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#6
+(a1) Congress sends landmark gun violence compromise to Biden
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+N
+
+--------------------
+
+#7
+(a5) A look at 50 years of Supreme Court abortion decisions
+(a10) US abortion ruling sparks global debate, polarizes activists
+Y
+
+--------------------
+
+#8
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#9
+(a1) Congress sends landmark gun violence compromise to Biden
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+Y
+
+--------------------
+
+#10
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#11
+(a5) A look at 50 years of Supreme Court abortion decisions
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+N
+
+--------------------
+
+#12
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#13
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+N
+
+--------------------
+
+#14
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#15
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+Y
+
+--------------------
+
+#16
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+Y
+
+--------------------
+
+#17
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+N
+
+--------------------
+
+#18
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#19
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#20
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#21
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#22
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+Y
+
+--------------------
+
+#23
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#24
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+Y
+
+--------------------
+
+#25
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#26
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+Y
+
+--------------------
+
+#27
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+N
+
+--------------------
+
+#28
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#29
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#30
+(a5) A look at 50 years of Supreme Court abortion decisions
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#31
+(a1) Congress sends landmark gun violence compromise to Biden
+(a10) US abortion ruling sparks global debate, polarizes activists
+N
+
+--------------------
+
+#32
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#33
+(c9) Supreme Court overturns Roe v. Wade
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#34
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#35
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+Y
+
+--------------------
+
+#36
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+N
+
+--------------------
+
+#37
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#38
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a5) A look at 50 years of Supreme Court abortion decisions
+Y
+
+--------------------
+
+#39
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#40
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+Y
+
+--------------------
+
+#41
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+Y
+
+--------------------
+
+#42
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#43
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+Y
+
+--------------------
+
+#44
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#45
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#46
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#47
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c9) Supreme Court overturns Roe v. Wade
+Y
+
+--------------------
+
+#48
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+Y
+
+--------------------
+
+#49
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a5) A look at 50 years of Supreme Court abortion decisions
+N
+
+--------------------
+
+#50
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+N
+
+--------------------
+
+#51
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#52
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+Y
+
+--------------------
+
+#53
+(a1) Congress sends landmark gun violence compromise to Biden
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+Y
+
+--------------------
+
+#54
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#55
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#56
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+N
+
+--------------------
+
+#57
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#58
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#59
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+(a10) US abortion ruling sparks global debate, polarizes activists
+N
+
+--------------------
+
+#60
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#61
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+N
+
+--------------------
+
+#62
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+N
+
+--------------------
+
+#63
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#64
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+N
+
+--------------------
+
+#65
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#66
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+N
+
+--------------------
+
+#67
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#68
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+N
+
+--------------------
+
+#69
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a10) US abortion ruling sparks global debate, polarizes activists
+Y
+
+--------------------
+
+#70
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#71
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#72
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#73
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#74
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+Y
+
+--------------------
+
+#75
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+Y
+
+--------------------
+
+#76
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+(a10) US abortion ruling sparks global debate, polarizes activists
+N
+
+--------------------
+
+#77
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+N
+
+--------------------
+
+#78
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+Y
+
+--------------------
+
+#79
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+Y
+
+--------------------
+
+#80
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+Y
+
+--------------------
+
+#81
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+N
+
+--------------------
+
+#82
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#83
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a1) Congress sends landmark gun violence compromise to Biden
+N
+
+--------------------
+
+#84
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#85
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+Y
+
+--------------------
+
+#86
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a10) US abortion ruling sparks global debate, polarizes activists
+Y
+
+--------------------
+
+#87
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+N
+
+--------------------
+
+#88
+(a5) A look at 50 years of Supreme Court abortion decisions
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+N
+
+--------------------
+
+#89
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#90
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#91
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+N
+
+--------------------
+
+#92
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+Y
+
+--------------------
+
+#93
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+N
+
+--------------------
+
+#94
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#95
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+N
+
+--------------------
+
+#96
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#97
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#98
+(f7) Most Americans are kind of in middle on abortion: Strassel
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#99
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+N
+
+--------------------
+
+#100
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+N
+
+--------------------
+
+#101
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+Y
+
+--------------------
+
+#102
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+Y
+
+--------------------
+
+#103
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#104
+(f7) Most Americans are kind of in middle on abortion: Strassel
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#105
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+Y
+
+--------------------
+
+#106
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#107
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+(c9) Supreme Court overturns Roe v. Wade
+Y
+
+--------------------
+
+#108
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#109
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+Y
+
+--------------------
+
+#110
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+N
+
+--------------------
+
+#111
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+(c9) Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#112
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+N
+
+--------------------
+
+#113
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+Y
+
+--------------------
+
+#114
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+Y
+
+--------------------
+
+#115
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+Y
+
+--------------------
+
+#116
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+N
+
+--------------------
+
+#117
+(a1) Congress sends landmark gun violence compromise to Biden
+(a5) A look at 50 years of Supreme Court abortion decisions
+N
+
+--------------------
+
+#118
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+N
+
+--------------------
+
+#119
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+N
+
+--------------------
+
+#120
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+N
+
+--------------------
+
+#121
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+(a10) US abortion ruling sparks global debate, polarizes activists
+N
+
+--------------------
+
+#122
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+N
+
+--------------------
+
+#123
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#124
+(a1) Congress sends landmark gun violence compromise to Biden
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+Y
+
+--------------------
+
+#125
+(a1) Congress sends landmark gun violence compromise to Biden
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#126
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+Y
+
+--------------------
+
+#127
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+N
+
+--------------------
+
+#128
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a5) A look at 50 years of Supreme Court abortion decisions
+Y
+
+--------------------
+
+#129
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+N
+
+--------------------
+
+#130
+(c0) US conducts Taiwan Strait flyover amid tensions with China
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+N
+
+--------------------
+
+#131
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c3) Biden will sign first major federal gun safety legislation in decades on Saturday, White House says
+Y
+
+--------------------
+
+#132
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#133
+(a5) A look at 50 years of Supreme Court abortion decisions
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+N
+
+--------------------
+
+#134
+(c5) Some states move quickly to ban abortion after Supreme Court ruling
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#135
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+Y
+
+--------------------
+
+#136
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+Y
+
+--------------------
+
+#137
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+(a10) US abortion ruling sparks global debate, polarizes activists
+N
+
+--------------------
+
+#138
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f10) I really thought that Cortez would be loyal to her ‘Democratic, socialist roots’: Ned Ryun
+N
+
+--------------------
+
+#139
+(a1) Congress sends landmark gun violence compromise to Biden
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+N
+
+--------------------
+
+#140
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+(a10) US abortion ruling sparks global debate, polarizes activists
+Y
+
+--------------------
+
+#141
+(c1) 'Pro-mom, pro-baby, pro-life': People at anti-abortion convention celebrate Roe's downfall and focus on 'long battle ahead'
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+Y
+
+--------------------
+
+#142
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+N
+
+--------------------
+
+#143
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+N
+
+--------------------
+
+#144
+(f0) Supreme Court overturns Roe v. Wade in landmark abortion decision
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+N
+
+--------------------
+
+#145
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+(a5) A look at 50 years of Supreme Court abortion decisions
+N
+
+--------------------
+
+#146
+(a2) Jan. 6: Pressure, unsung heroes and Trump’s Watergate echoes
+(a8) Hearing: Trump told Justice Dept. to call election ‘corrupt’
+Y
+
+--------------------
+
+#147
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#148
+(a0) Supreme Court overturns Roe v. Wade; states can ban abortion
+(a3) Biden vows abortion fight, assails ‘extreme’ court ruling
+Y
+
+--------------------
+
+#149
+(a6) After abortion ruling, critics renew blasts at Sen. Collins
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+Y
+
+--------------------
+
+#150
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+(a7) GOP unity? Some aim for reconciliation after tough primaries
+Y
+
+--------------------
+
+#151
+(f3) Roe v. Wade was criticized by many liberal academics: Turley
+(f6) Antifa chant 'burn it down' at Supreme Court abortion ruling protest in DC
+Y
+
+--------------------
+
+#152
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+Y
+
+--------------------
+
+#153
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+(c8) How abortion bans could be enforced with Roe v. Wade reversed
+N
+
+--------------------
+
+#154
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f4) Los Angeles residents protest Roe vs. Wade ruling: 'What we decide to do with our bodies is the most basic human right'
+Y
+
+--------------------
+
+#155
+(f7) Most Americans are kind of in middle on abortion: Strassel
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#156
+(f2) Abortion rights to expand in blue states after Roe v Wade overturned in Dobbs decision
+(f7) Most Americans are kind of in middle on abortion: Strassel
+Y
+
+--------------------
+
+#157
+(a9) Excerpts from the Supreme Court’s landmark abortion decision
+(a10) US abortion ruling sparks global debate, polarizes activists
+N
+
+--------------------
+
+#158
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c6) Arizona GOP chair subpoenaed in federal investigation of fake electors
+Y
+
+--------------------
+
+#159
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+(c7) Supreme Court backs HHS approach to Medicare payments for hospitals serving low-income patients
+N
+
+--------------------
+
+#160
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+(c10) Conservative justices seized the moment and delivered the opinion they'd long promised
+N
+
+--------------------
+
+#161
+(f5) Hannity: Here are the facts on the Supreme Court’s decision on abortion
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+Y
+
+--------------------
+
+#162
+(f8) Austin Roe protesters call Supreme Court illegitimate, call for country to be shut down to overturn ruling
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#163
+(a1) Congress sends landmark gun violence compromise to Biden
+(a4) Live updates | Supreme Court overturns Roe v. Wade
+N
+
+--------------------
+
+#164
+(f1) More than 2 dozen states to restrict abortions after Roe v Wade overturned in Dobbs decision
+(f9) Pro-abortion activists gather in Washington D.C.: 'Fists up, fight back'
+Y
+
+--------------------
+
+#165
+(c2) 'Roe is on the ballot': Supreme Court's ruling on abortion rights raises stakes in midterms
+(c4) Suspected Russian spy was well-liked by classmates but something just seemed a little off
+N
+
+--------------------
+
