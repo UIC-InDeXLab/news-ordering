@@ -1,0 +1,401 @@
+Suppose an average adult residing in the United States is viewing news headlines.
+If the subject views headline A and headline B together,
+will their impression of either story likely be different
+from what it would have been if the subject had viewed them individually?
+I.e., would viewing the headline of one story influence their
+opinion on the veracity of the content of the other story or
+the causes, effects, or benefits of the events discussed within?
+
+For each question, you may answer "yes", "no", or "maybe".
+Please replace "Y/N/M" with the corresponding letter.
+
+There are a total of 55 questions.
+The task is estimated to take 22 minutes to complete.
+
+--------------------
+
+#1
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a9) Crayola has joined the woke brigade with a vengeance
+Y
+
+--------------------
+
+#2
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a5) An Appeal to Heaven
+N
+
+--------------------
+
+#3
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+(a9) Crayola has joined the woke brigade with a vengeance
+Y
+
+--------------------
+
+#4
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+(a9) Crayola has joined the woke brigade with a vengeance
+N
+
+--------------------
+
+#5
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+N
+
+--------------------
+
+#6
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+Y
+
+--------------------
+
+#7
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+M
+
+--------------------
+
+#8
+(a5) An Appeal to Heaven
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+Y
+
+--------------------
+
+#9
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#10
+(a6) A travesty of Soros justice in New York
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+M
+
+--------------------
+
+#11
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+Y
+
+--------------------
+
+#12
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+M
+
+--------------------
+
+#13
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+M
+
+--------------------
+
+#14
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+M
+
+--------------------
+
+#15
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+(a5) An Appeal to Heaven
+N
+
+--------------------
+
+#16
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+Y
+
+--------------------
+
+#17
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+Y
+
+--------------------
+
+#18
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+M
+
+--------------------
+
+#19
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#20
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#21
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a1) Some Lessons from January 6 Committee Finale
+N
+
+--------------------
+
+#22
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a6) A travesty of Soros justice in New York
+M
+
+--------------------
+
+#23
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+Y
+
+--------------------
+
+#24
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+Y
+
+--------------------
+
+#25
+(a3) Safeguarding the Filibuster
+(a9) Crayola has joined the woke brigade with a vengeance
+N
+
+--------------------
+
+#26
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+Y
+
+--------------------
+
+#27
+(a1) Some Lessons from January 6 Committee Finale
+(a9) Crayola has joined the woke brigade with a vengeance
+N
+
+--------------------
+
+#28
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+Y
+
+--------------------
+
+#29
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a2) How Evil Advances: The Tyranny of Good Intentions
+Y
+
+--------------------
+
+#30
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+(a6) A travesty of Soros justice in New York
+N
+
+--------------------
+
+#31
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+Y
+
+--------------------
+
+#32
+(a6) A travesty of Soros justice in New York
+(a9) Crayola has joined the woke brigade with a vengeance
+M
+
+--------------------
+
+#33
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+Y
+
+--------------------
+
+#34
+(a3) Safeguarding the Filibuster
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+N
+
+--------------------
+
+#35
+(a1) Some Lessons from January 6 Committee Finale
+(a3) Safeguarding the Filibuster
+M
+
+--------------------
+
+#36
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+M
+
+--------------------
+
+#37
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#38
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+Y
+
+--------------------
+
+#39
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a9) Crayola has joined the woke brigade with a vengeance
+M
+
+--------------------
+
+#40
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+M
+
+--------------------
+
+#41
+(a5) An Appeal to Heaven
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#42
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+Y
+
+--------------------
+
+#43
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a5) An Appeal to Heaven
+M
+
+--------------------
+
+#44
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+M
+
+--------------------
+
+#45
+(a3) Safeguarding the Filibuster
+(a5) An Appeal to Heaven
+N
+
+--------------------
+
+#46
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+Y
+
+--------------------
+
+#47
+(a6) A travesty of Soros justice in New York
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+N
+
+--------------------
+
+#48
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+Y
+
+--------------------
+
+#49
+(a1) Some Lessons from January 6 Committee Finale
+(a6) A travesty of Soros justice in New York
+M
+
+--------------------
+
+#50
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+Y
+
+--------------------
+
+#51
+(a1) Some Lessons from January 6 Committee Finale
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+N
+
+--------------------
+
+#52
+(a1) Some Lessons from January 6 Committee Finale
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+M
+
+--------------------
+
+#53
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#54
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+M
+
+--------------------
+
+#55
+(a1) Some Lessons from January 6 Committee Finale
+(a2) How Evil Advances: The Tyranny of Good Intentions
+Y
+
+--------------------
+

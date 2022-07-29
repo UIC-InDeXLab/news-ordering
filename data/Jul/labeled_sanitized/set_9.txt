@@ -1,0 +1,401 @@
+Suppose an average adult residing in the United States is viewing news headlines.
+If the subject views headline A and headline B together,
+will their impression of either story likely be different
+from what it would have been if the subject had viewed them individually?
+I.e., would viewing the headline of one story influence their
+opinion on the veracity of the content of the other story or
+the causes, effects, or benefits of the events discussed within?
+
+For each question, you may answer "yes", "no", or "maybe".
+Please replace "Y/N/M" with the corresponding letter.
+
+There are a total of 55 questions.
+The task is estimated to take 22 minutes to complete.
+
+--------------------
+
+#1
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+N
+
+--------------------
+
+#2
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+N
+
+--------------------
+
+#3
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+M
+
+--------------------
+
+#4
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#5
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+N
+
+--------------------
+
+#6
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+N
+
+--------------------
+
+#7
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+M
+
+--------------------
+
+#8
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+N
+
+--------------------
+
+#9
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+N
+
+--------------------
+
+#10
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+N
+
+--------------------
+
+#11
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+Y
+
+--------------------
+
+#12
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+N
+
+--------------------
+
+#13
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+N
+
+--------------------
+
+#14
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+Y
+
+--------------------
+
+#15
+(a5) An Appeal to Heaven
+(a6) A travesty of Soros justice in New York
+N
+
+--------------------
+
+#16
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+Y
+
+--------------------
+
+#17
+(t5) Media Sugarcoat 79-Year-Old Biden's Covid Test After Threatening School, Church, And Work Could Kill You
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+M
+
+--------------------
+
+#18
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+M
+
+--------------------
+
+#19
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+(a9) Crayola has joined the woke brigade with a vengeance
+N
+
+--------------------
+
+#20
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+N
+
+--------------------
+
+#21
+(a1) Some Lessons from January 6 Committee Finale
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+N
+
+--------------------
+
+#22
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+N
+
+--------------------
+
+#23
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+N
+
+--------------------
+
+#24
+(a3) Safeguarding the Filibuster
+(a6) A travesty of Soros justice in New York
+N
+
+--------------------
+
+#25
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+N
+
+--------------------
+
+#26
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+N
+
+--------------------
+
+#27
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a3) Safeguarding the Filibuster
+N
+
+--------------------
+
+#28
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+N
+
+--------------------
+
+#29
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#30
+(a9) Crayola has joined the woke brigade with a vengeance
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#31
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+N
+
+--------------------
+
+#32
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+N
+
+--------------------
+
+#33
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+N
+
+--------------------
+
+#34
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#35
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t4) No One is Coming For Contraception, But They're Definitely Coming For Conscience Rights
+N
+
+--------------------
+
+#36
+(t1) Scarry: Political Violence Now 'Justified' When It Comes From The Left
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+Y
+
+--------------------
+
+#37
+(a5) An Appeal to Heaven
+(a9) Crayola has joined the woke brigade with a vengeance
+N
+
+--------------------
+
+#38
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+(t10) I Was Wrong About The Media. They've Always Been A Pretentious Gang Of Losers
+Y
+
+--------------------
+
+#39
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a6) A travesty of Soros justice in New York
+N
+
+--------------------
+
+#40
+(a1) Some Lessons from January 6 Committee Finale
+(a5) An Appeal to Heaven
+M
+
+--------------------
+
+#41
+(a3) Safeguarding the Filibuster
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+N
+
+--------------------
+
+#42
+(t2) Scarry: Politics Is Now 'All-Consuming' Of The Left, Driving Them To Perpetual Misery
+(t9) Democrats Announce Season 2 Of Jan. 6 Saga After This Week's Finale Ended With A Dud
+N
+
+--------------------
+
+#43
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+Y
+
+--------------------
+
+#44
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+(a8) The Merriam-Webster's online dictionary redefines 'female'
+N
+
+--------------------
+
+#45
+(t6) Trump Was Right About Europe's Dangerous Dependence On Russian Energy
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+N
+
+--------------------
+
+#46
+(a0) Academia Neglects Its Most Important Function: A Free Marketplace of Ideas
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+N
+
+--------------------
+
+#47
+(a2) How Evil Advances: The Tyranny of Good Intentions
+(a3) Safeguarding the Filibuster
+N
+
+--------------------
+
+#48
+(a3) Safeguarding the Filibuster
+(a4) Biden in the Middle East: No Shame in Wise Strategic Alignments
+N
+
+--------------------
+
+#49
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t3) Hemingway: Biden's Takeover Of Elections Is Unconstitutional, Unethical, And Chaotic
+N
+
+--------------------
+
+#50
+(a5) An Appeal to Heaven
+(a7) Was Bannon found guilty because jury and judge feared a mob reaction if he were acquitted?
+N
+
+--------------------
+
+#51
+(a1) Some Lessons from January 6 Committee Finale
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#52
+(a3) Safeguarding the Filibuster
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#53
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t7) As With Jumping Off A Cliff, So With Supporting Same-Sex 'Marriage': Don't Just Follow The Majority
+N
+
+--------------------
+
+#54
+(a6) A travesty of Soros justice in New York
+(a10) Joe's and the Dems' (almost) perfect out on Hunter
+N
+
+--------------------
+
+#55
+(t0) Fulton County DA's J6-Style Crusade Against Lindsey Graham Is Unconstitutional, And Here's Why
+(t8) In The Wake Of Roe's Demise, Democrats Are Doing All They Can To Thwart Democracy
+N
+
+--------------------
+
