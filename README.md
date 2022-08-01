@@ -15,3 +15,15 @@ Companion repo for "Maximizing Neutrality in News Ordering" paper.
 - `labels_to_graph.ipynb`: Reads labeled data and converts it into graph format. Also contains code to fit data to statistical distribution.
 - `detection.ipynb`: Given a dataset, determines whether ordering was cherry-picked.
 - `maximizing_neutrality.ipynb`: Given synthetic or semi-synthetic dataset, finds orderings that approximately maximize neutrality.
+
+## Authors
+
+* **[Rishi Advani](https://rishi-advani.com/)**
+* **[Paolo Papotti](https://www.eurecom.fr/~papotti/)**
+* **[Abolfazl Asudeh](https://www.cs.uic.edu/~asudeh/)**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+<p align="center"><img width="20%" src="https://www.cs.uic.edu/~indexlab/imgs/InDeXLab2.gif"></p>
