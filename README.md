@@ -1,4 +1,6 @@
-# News Ordering
+# Maximizing Neutrality News Ordering
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7159295.svg)](https://doi.org/10.5281/zenodo.7159295)
+
 Companion repo for "Maximizing Neutrality in News Ordering" paper.
 
 ## Installation
@@ -24,6 +26,6 @@ Companion repo for "Maximizing Neutrality in News Ordering" paper.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License &mdash; see the [LICENSE.md](LICENSE.md) file for details.
 
 <p align="center"><img width="20%" src="https://www.cs.uic.edu/~indexlab/imgs/InDeXLab2.gif"></p>
