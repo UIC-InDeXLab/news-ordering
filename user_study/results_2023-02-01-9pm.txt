@@ -1,0 +1,5 @@
+Percentage of users with negative opinion of principal
+------------------
+
+test    = 37.9% (11/29)
+control = 25.9% (7/27)
