@@ -2,4 +2,4 @@ Number of users with negative, positive opinion of principal
 ------------------
 
 test    = 11, 18
-control = 07, 20
+control = 07, 22

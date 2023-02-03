@@ -1,0 +1,14 @@
+Number of users with negative, positive opinion of principal
+------------------
+
+test    = 11, 16
+control = 04, 21
+
+
+
+removed Control #23
+removed Test #15
+removed Test #06
+removed Control #02
+removed Control #22
+removed Control #27
