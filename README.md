@@ -1,4 +1,4 @@
-# Maximizing Neutrality News Ordering
+# Maximizing Neutrality in News Ordering
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7159295.svg)](https://doi.org/10.5281/zenodo.7159295)
 
 Companion repo for "Maximizing Neutrality in News Ordering" paper.
